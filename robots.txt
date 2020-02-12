@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://opherexee.dequincey.blog/sitemap.xml
